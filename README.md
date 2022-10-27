@@ -1,9 +1,9 @@
 # NGS_Scripts
 
-Directory with various scripts to transform, format, and analyses data.
+Directory with various usefull scripts to transform, format, and analyses data.
 
 
-### Information about some scripts 
+### Informations about the scripts 
 
 Most of them are straitforward and have all the info inside to understand hopw to run them.
 
